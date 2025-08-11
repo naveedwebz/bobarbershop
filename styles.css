@@ -123,7 +123,7 @@ body {
 .hero {
     height: 100vh;
     background: linear-gradient(rgba(26, 26, 26, 0.6), rgba(26, 26, 26, 0.6)),
-                url('https://i.postimg.cc/pdBtXKG6/image.jpg') center/cover;
+                url('https://i.postimg.cc/FKVTbs3f/f9b3c607-8153-47ec-9aff-bc29e493b964.avif') center/cover;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -1008,4 +1008,5 @@ section {
     width: 32px;
     height: 32px;
     fill: white;
+
 }
